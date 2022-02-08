@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(14, 141, 201);
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+p {
+  color: white;
+}
+h3 {
+  color: yellow;
+}
+ul {
+  color: white;
+}
+img {
+  border-style: double;
+  border-color: white;
+}
